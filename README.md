@@ -11,5 +11,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/singh-amit-45/leetcode-sql/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/singh-amit-45/leetcode-sql/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/singh-amit-45/leetcode-sql/tree/master/0596-classes-with-at-least-5-students) |
+| [1045-customers-who-bought-all-products](https://github.com/singh-amit-45/leetcode-sql/tree/master/1045-customers-who-bought-all-products) |
 | [1179-reformat-department-table](https://github.com/singh-amit-45/leetcode-sql/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
