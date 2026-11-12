@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/singh-amit-45/leetcode-sql/tree/master/1045-customers-who-bought-all-products) |
 | [1179-reformat-department-table](https://github.com/singh-amit-45/leetcode-sql/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/singh-amit-45/leetcode-sql/tree/master/1280-students-and-examinations) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/singh-amit-45/leetcode-sql/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
