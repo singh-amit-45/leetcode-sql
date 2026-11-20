@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/singh-amit-45/leetcode-sql/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/singh-amit-45/leetcode-sql/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/singh-amit-45/leetcode-sql/tree/master/1068-product-sales-analysis-i) |
+| [1084-sales-analysis-iii](https://github.com/singh-amit-45/leetcode-sql/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/singh-amit-45/leetcode-sql/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/singh-amit-45/leetcode-sql/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/singh-amit-45/leetcode-sql/tree/master/1280-students-and-examinations) |
