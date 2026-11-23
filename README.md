@@ -22,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/singh-amit-45/leetcode-sql/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/singh-amit-45/leetcode-sql/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/singh-amit-45/leetcode-sql/tree/master/1280-students-and-examinations) |
+| [1407-top-travellers](https://github.com/singh-amit-45/leetcode-sql/tree/master/1407-top-travellers) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/singh-amit-45/leetcode-sql/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
