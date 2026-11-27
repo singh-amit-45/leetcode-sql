@@ -25,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/singh-amit-45/leetcode-sql/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/singh-amit-45/leetcode-sql/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/singh-amit-45/leetcode-sql/tree/master/1484-group-sold-products-by-the-date) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/singh-amit-45/leetcode-sql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/singh-amit-45/leetcode-sql/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
